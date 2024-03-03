@@ -1,4 +1,3 @@
-
 # Cycle Extraction from Financial Data
 
 ## Overview
@@ -32,9 +31,6 @@ pip install numpy matplotlib pandas MetaTrader5 sklearn
 
 ## Contributing
 Contributions to improve the notebook or extend its capabilities are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 This notebook is for educational purposes only and is not intended as financial advice. Always consult with a financial advisor before making investment decisions.
